@@ -1,0 +1,61 @@
+#EXTINF:-1 ,SBT
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/chunklist_w149772694.m3u8
+ 
+#EXTINF:-1 ,RECORD
+http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
+ 
+#EXTINF:-1 ,CANAL SAÚDE
+https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
+ 
+#EXTINF:-1 ,FUTURA
+https://stmv1.transmissaodigital.com/ronald6259/ronald6259/chunklist_w1479612842.m3u8
+ 
+#EXTINF:-1 ,RUNTIME
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+ 
+#EXTINF:-1 ,RUNTIME AÇÃO
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
+ 
+#EXTINF:-1 ,RUNTIME COMÉDIA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
+ 
+#EXTINF:-1 ,SIC
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+ 
+#EXTINF:-1 ,TV CULTURA
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1579505314.m3u8
+ 
+#EXTINF:-1 ,TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+ 
+#EXTINF:-1 ,TVI FICÇÃO
+https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
+ 
+#EXTINF:-1 ,TV EDUCAÇÃO
+http://origin-02.nxplay.com.br/MULTICULTURA_PFZ/video.m3u8
+ 
+#EXTINF:-1 ,TESTE
+https://evpp.mm.uol.com.br/geob_band/band/chunklist_w319608361.m3u8
+ 
+#EXTINF:-1 tvg-id="6102e04e9ab1db0007a980a1" tvg-logo="https://i.imgur.com/iC5UoAN.png" group-title="Brasil: notícias em português",Record News | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="6102e04e9ab1db0007a980a1" tvg-logo="https://i.imgur.com/iC5UoAN.png" group-title="Brasil: notícias em português",Record News | sem propaganda
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="6102e04e9ab1db0007a980a1" tvg-logo="https://i.imgur.com/iC5UoAN.png" group-title="Brasil: notícias em português",Record News | YT Brasil
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/recordnews/live
+ 
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-logo="https://i.imgur.com/HnL2uBA.png" group-title="Brasil: variedades em português",Band | Brasil
+http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-logo="https://i.imgur.com/HnL2uBA.png" group-title="Brasil: variedades em português",Band | Brasil 2
+https://evpp.mm.uol.com.br/geob_band/band/master.m3u8
+#EXTINF:-1 tvg-id="RBATV.br" tvg-logo="https://i.imgur.com/aUU5Hhh.png" group-title="Brasil: variedades em português",Band | RBA TV - PA - Brasil
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CNu0JI0.png" group-title="Brasil: notícias em português",Band Jornalismo - horários | YT Brasil
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/bandjornalismo/live
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-logo="https://i.imgur.com/5AK7gLc.png" group-title="Brasil: notícias em português",CNN Brasil
+http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-logo="https://i.imgur.com/5AK7gLc.png" group-title="Brasil: notícias em português",CNN Brasil | YouTube
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/CNNbrasil/live
+ 
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-logo="https://i.imgur.com/5AK7gLc.png" group-title="Brasil: notícias em português",sbt rs | YouTube
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/sbtrs/live
