@@ -59,5 +59,23 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/CNNbr
  
 #EXTINF:-1 tvg-id="CNNBrasil.br" tvg-logo="https://i.imgur.com/5AK7gLc.png" group-title="Brasil: notícias em português",sbt rs | YouTube
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/sbtrs/live
-
-s
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aI47NdR.png" group-title="Brasil: humor - novelas - séries",Comédia Brasil | Samsung
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/srURmsi.png" group-title="Brasil: variedades em português",SBT | YT Rio Grande do Sul
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/sbtrs/live
+#EXTINF:-1 tvg-id="STVNoticias.mz" tvg-logo="https://i.imgur.com/rnh6AKW.png" group-title="Brasil: variedades em português",STV | Moçambique
+https://dcunilive36-lh.akamaihd.net/i/dclive_1@668002/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0eGv67Q.png" group-title="Brasil: variedades em português",Teledifusão de Macau | China
+http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
+#EXTINF:-1 tvg-id="GaliciaTVEuropa.es" tvg-logo="https://i.imgur.com/wBQZqvb.png" group-title="Brasil: variedades em português",Televisión de Galicia - em galego | Espanha
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1249
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1fuitzl.png" group-title="Brasil: cinema em português",Cindie Lite
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-cindie-samsungbr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1fuitzl.png" group-title="Brasil: cinema em português",Cindie Lite | Brasil 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1310
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1fuitzl.png" group-title="Brasil: cinema em português",Cindie Lite | Brasil 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=821
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Emaofdr.png" group-title="Brasil: variedades em português",Lass TV
+https://streaming03.zas.media:1936/lasstv/lasstv/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Emaofdr.png" group-title="Brasil: variedades em português",Lass TV 2
+https://alanza.iptv2022.com/LASS_TV/tracks-v1a1/mono.m3u8
