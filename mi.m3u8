@@ -14,22 +14,22 @@ http://lg-ddns.live:80/jorge1010/101020/7949
 http://lg-ddns.live:80/jorge1010/101020/96852
 
 #EXTINF:-1 ,BAND NEWS
-http://kyscars.com:8080/dinho2022/2022dinho/856485
+http://lg-ddns.live:80/jorge1010/101020/8136
 
 #EXTINF:-1 ,CNN BRASIL
 http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 
 #EXTINF:-1 ,A&E
-http://kyscars.com:8080/dinho2022/2022dinho/856079
+http://lg-ddns.live:80/jorge1010/101020/8150
 
 #EXTINF:-1 ,AMC
-http://kyscars.com:8080/dinho2022/2022dinho/856082
+http://lg-ddns.live:80/jorge1010/101020/8147
 
 #EXTINF:-1 ,ANIMAL PLANET
-http://kyscars.com:8080/dinho2022/2022dinho/856287
+http://lg-ddns.live:80/jorge1010/101020/8145
 
 #EXTINF:-1 ,AXN
-http://kyscars.com:8080/dinho2022/2022dinho/856087
+http://lg-ddns.live:80/jorge1010/101020/1282
 
 #EXTINF:-1 ,CANAL SAÚDE
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
@@ -37,20 +37,71 @@ https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
 #EXTINF:-1 ,CINDIE LITE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1310
 
+#EXTINF:-1 ,CINE SKY 1
+http://lg-ddns.live:80/jorge1010/101020/144683
+
+#EXTINF:-1 ,CINE SKY 2
+http://lg-ddns.live:80/jorge1010/101020/144684
+
+#EXTINF:-1 ,CINE SKY 3
+http://lg-ddns.live:80/jorge1010/101020/144685
+
+#EXTINF:-1 ,CINE SKY 4
+http://lg-ddns.live:80/jorge1010/101020/144686
+
+#EXTINF:-1 ,CINE SKY 5
+http://lg-ddns.live:80/jorge1010/101020/144687
+
+#EXTINF:-1 ,CINE SKY 6
+http://lg-ddns.live:80/jorge1010/101020/144688
+
+#EXTINF:-1 ,CINE SKY 7
+http://lg-ddns.live:80/jorge1010/101020/144689
+
+#EXTINF:-1 ,CINE SKY 8
+http://lg-ddns.live:80/jorge1010/101020/144690
+
+#EXTINF:-1 ,CINE SKY 9
+http://lg-ddns.live:80/jorge1010/101020/144691
+
 #EXTINF:-1 ,CINECANAL
-http://kyscars.com:8080/dinho2022/2022dinho/856680
+http://lg-ddns.live:80/jorge1010/101020/8068
 
 #EXTINF:-1 ,CINEMAX
-http://kyscars.com:8080/dinho2022/2022dinho/856096
+http://lg-ddns.live:80/jorge1010/101020/8120
 
 #EXTINF:-1 ,COMÉDIA BRASIL
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8
+
+#EXTINF:-1 ,DISCOVERY CHANNEL
+http://lg-ddns.live:80/jorge1010/101020/8112
+
+#EXTINF:-1 ,DISCOVERY SCIENCE
+http://lg-ddns.live:80/jorge1010/101020/8104
+
+#EXTINF:-1 ,DISCOVERY THEATER
+http://lg-ddns.live:80/jorge1010/101020/8102
+
+#EXTINF:-1 ,DISCOVERY WORLD
+http://lg-ddns.live:80/jorge1010/101020/8098
  
 #EXTINF:-1 ,FUTURA
-https://stmv1.transmissaodigital.com/ronald6259/ronald6259/chunklist_w1479612842.m3u8
+http://lg-ddns.live:80/jorge1010/101020/8058
+
+#EXTINF:-1 ,HISTORY
+http://lg-ddns.live:80/jorge1010/101020/8005
+
+#EXTINF:-1 ,HISTORY 2
+http://lg-ddns.live:80/jorge1010/101020/5626
+
+#EXTINF:-1 ,INVESTIGAÇÃO DISCOVERY
+http://lg-ddns.live:80/jorge1010/101020/8003
 
 #EXTINF:-1 ,LASS TV
 https://streaming03.zas.media:1936/lasstv/lasstv/master.m3u8
+
+#EXTINF:-1 ,NAT GEO
+http://lg-ddns.live:80/jorge1010/101020/7982
  
 #EXTINF:-1 ,RUNTIME
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
@@ -60,6 +111,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
  
 #EXTINF:-1 ,RUNTIME COMÉDIA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
+
+#EXTINF:-1 ,STUDIO UNIVERSAL
+http://lg-ddns.live:80/jorge1010/101020/7928
  
 #EXTINF:-1 ,TV CULTURA
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1579505314.m3u8
