@@ -1,23 +1,47 @@
+#EXTINF:-1 ,GLOBO
+http://kyscars.com:8080/dinho2022/2022dinho/856413
+
 #EXTINF:-1 ,SBT
-https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/chunklist_w149772694.m3u8
+http://fortv.cc:8080/Ronnie/Ronnie/20978
  
 #EXTINF:-1 ,RECORD
-http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
+http://kyscars.com:8080/dinho2022/2022dinho/856522
 
 #EXTINF:-1 ,RECORD NEWS
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/recordnews/live
+http://kyscars.com:8080/dinho2022/2022dinho/856503
 
 #EXTINF:-1 ,BAND
-http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
+http://kyscars.com:8080/dinho2022/2022dinho/856509
+
+#EXTINF:-1 ,BAND NEWS
+http://kyscars.com:8080/dinho2022/2022dinho/856485
 
 #EXTINF:-1 ,CNN BRASIL
 http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
+
+#EXTINF:-1 ,A&E
+http://kyscars.com:8080/dinho2022/2022dinho/856079
+
+#EXTINF:-1 ,AMC
+http://kyscars.com:8080/dinho2022/2022dinho/856082
+
+#EXTINF:-1 ,ANIMAL PLANET
+http://kyscars.com:8080/dinho2022/2022dinho/856287
+
+#EXTINF:-1 ,AXN
+http://kyscars.com:8080/dinho2022/2022dinho/856087
 
 #EXTINF:-1 ,CANAL SAÚDE
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
  
 #EXTINF:-1 ,CINDIE LITE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1310
+
+#EXTINF:-1 ,CINECANAL
+http://kyscars.com:8080/dinho2022/2022dinho/856680
+
+#EXTINF:-1 ,CINEMAX
+http://kyscars.com:8080/dinho2022/2022dinho/856096
 
 #EXTINF:-1 ,COMÉDIA BRASIL
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8
