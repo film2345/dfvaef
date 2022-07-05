@@ -31,6 +31,9 @@ http://lg-ddns.live:80/jorge1010/101020/8145
 #EXTINF:-1 ,AXN
 http://lg-ddns.live:80/jorge1010/101020/1282
 
+#EXTINF:-1 ,CÂMERA ESCONDIDAS PROGRAMA SILVIO SANTOS
+http://lg-ddns.live:80/jorge1010/101020/143896
+
 #EXTINF:-1 ,CANAL BRASIL
 http://lg-ddns.live:80/jorge1010/101020/8127
 
@@ -135,4 +138,7 @@ https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificca
 
 #EXTINF:-1 ,UNIVERSAL TV
 http://lg-ddns.live:80/jorge1010/101020/7890
+
+#EXTINF:-1 ,PREMIUM
+http://lg-ddns.live:80/jorge1010/101020/57360
 
