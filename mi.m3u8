@@ -33,7 +33,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
  
 #EXTINF:-1 ,RUNTIME COMÉDIA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
- 
+
 #EXTINF:-1 ,TV CULTURA
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1579505314.m3u8
  
@@ -42,3 +42,53 @@ http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
  
 #EXTINF:-1 ,TVI FICÇÃO
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Record TV Rio HD" tvg-logo="https://i.imgur.com/KUjlPaI.png" group-title="Abertos",RecordTV Rio https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
+
+#EXTINF:-1 tvg-id="Record TV Rio HD" tvg-logo="https://i.imgur.com/KUjlPaI.png" group-title="Abertos",RecordTV Rio HD https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-id="RecordTV RS" tvg-logo="https://i.imgur.com/9hDdbDE.png" group-title="Abertos",RecordTV RS https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/master.m3u8
+
+#EXTINF:-1 tvg-id="RecordTV RS" tvg-logo="https://i.imgur.com/9hDdbDE.png" group-title="Abertos",RecordTV RS HD https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_720_av-p.m3u8
+#EXTINF:-1 ,GLOBO
+http://kyscars.com:8080/dinho2022/2022dinho/856413
+
+#EXTINF:-1 ,SBT
+http://fortv.cc:8080/Ronnie/Ronnie/20978
+ 
+#EXTINF:-1 ,RECORD
+http://kyscars.com:8080/dinho2022/2022dinho/856522
+
+#EXTINF:-1 ,RECORD NEWS
+http://kyscars.com:8080/dinho2022/2022dinho/856503
+
+#EXTINF:-1 ,BAND
+http://kyscars.com:8080/dinho2022/2022dinho/856509
+
+#EXTINF:-1 ,BAND NEWS
+http://kyscars.com:8080/dinho2022/2022dinho/856485
+
+#EXTINF:-1 tvg-id="Curta.br" tvg-logo="https://i.imgur.com/g9AtH3s.png" group-title="Documentários",Curta! https://live.charlotteproducoes.com/hls/curta.m3u8
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-logo="https://i.imgur.com/9POMYYK.png" group-title="YouTube",SBT Brasília https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/sbtrs/live
+ 
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/pegadinhas.png" group-title="HUMOR",PEGADINHAS  
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2047
+
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV POA HD" tvg-logo="http://milionariohomeoffice.com.br/img/globo.png" group-title="ABERTOS",GLOBO RBS TV POA 1
+http://conexaoonline.top:80/6339721/3230605/185
+
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV POA SD" tvg-logo="http://milionariohomeoffice.com.br/img/globo.png" group-title="ABERTOS",GLOBO RBS TV POA 2
+http://conexaoonline.top:80/6339721/3230605/186
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/record.png" group-title="ABERTOS",RECORD TV 1
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/record.png" group-title="ABERTOS",RECORD TV 2
+https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/guaraja.png" group-title="ABERTOS", SBT
+https://livefocamundo.com:8081/tvguajaraonline2/index.m3u8
+
+#EXTINF:-1 tvg-id="RBATV.br" tvg-logo="http://milionariohomeoffice.com.br/img/band.png" group-title="ABERTOS",BAND
+http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
