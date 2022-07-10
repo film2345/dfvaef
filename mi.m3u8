@@ -2,7 +2,7 @@
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/chunklist_w149772694.m3u8
  
 #EXTINF:-1 ,RECORD
-http://kyscars.com:8080/dinho2022/2022dinho/856522
+http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
 
 #EXTINF:-1 ,RECORD NEWS
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/recordnews/live
@@ -43,13 +43,18 @@ http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:-1 ,TVI FICÇÃO
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Record TV Rio HD" tvg-logo="https://i.imgur.com/KUjlPaI.png" group-title="Abertos",RecordTV Rio https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
+#EXTINF:-1 tvg-id="Record TV Rio HD" tvg-logo="https://i.imgur.com/KUjlPaI.png" group-title="Abertos",RecordTV Rio 
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
 
-#EXTINF:-1 tvg-id="Record TV Rio HD" tvg-logo="https://i.imgur.com/KUjlPaI.png" group-title="Abertos",RecordTV Rio HD https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="Record TV Rio HD" tvg-logo="https://i.imgur.com/KUjlPaI.png" group-title="Abertos",RecordTV Rio HD 
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
 
-#EXTINF:-1 tvg-id="RecordTV RS" tvg-logo="https://i.imgur.com/9hDdbDE.png" group-title="Abertos",RecordTV RS https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/master.m3u8
+#EXTINF:-1 tvg-id="RecordTV RS" tvg-logo="https://i.imgur.com/9hDdbDE.png" group-title="Abertos",RecordTV RS 
+https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/master.m3u8
 
-#EXTINF:-1 tvg-id="RecordTV RS" tvg-logo="https://i.imgur.com/9hDdbDE.png" group-title="Abertos",RecordTV RS HD https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="RecordTV RS" tvg-logo="https://i.imgur.com/9hDdbDE.png" group-title="Abertos",RecordTV RS HD 
+https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_720_av-p.m3u8
+
 #EXTINF:-1 ,GLOBO
 http://kyscars.com:8080/dinho2022/2022dinho/856413
 
@@ -68,9 +73,11 @@ http://kyscars.com:8080/dinho2022/2022dinho/856509
 #EXTINF:-1 ,BAND NEWS
 http://kyscars.com:8080/dinho2022/2022dinho/856485
 
-#EXTINF:-1 tvg-id="Curta.br" tvg-logo="https://i.imgur.com/g9AtH3s.png" group-title="Documentários",Curta! https://live.charlotteproducoes.com/hls/curta.m3u8
+#EXTINF:-1 tvg-id="Curta.br" tvg-logo="https://i.imgur.com/g9AtH3s.png" group-title="Documentários",Curta! 
+https://live.charlotteproducoes.com/hls/curta.m3u8
 
-#EXTINF:-1 tvg-id="Sbt.br" tvg-logo="https://i.imgur.com/9POMYYK.png" group-title="YouTube",SBT Brasília https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/sbtrs/live
+#EXTINF:-1 tvg-id="Sbt.br" tvg-logo="https://i.imgur.com/9POMYYK.png" group-title="YouTube",SBT Brasília 
+https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/sbtrs/live
  
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/pegadinhas.png" group-title="HUMOR",PEGADINHAS  
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2047
