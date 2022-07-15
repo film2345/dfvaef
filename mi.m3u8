@@ -41,24 +41,41 @@ http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 
 #EXTINF:-1 ,URBAN DOCS
-https://5ad482a77183d.streamlock.net/urbantvdocsgmail.com/urbantvdocsgmail.com/playlist.m3u8?ROGERIOTORRES
+https://5ad482a77183d.streamlock.net/urbantvdocsgmail.com/urbantvdocsgmail.com/playlist.m3u8
 
 #EXTINF:-1 ,URBAN MOVIES
-https://5ad482a77183d.streamlock.net/urbantvmoviesgmail.com/urbantvmoviesgmail.com/playlist.m3u8?ROGERIOTORRES
+https://5ad482a77183d.streamlock.net/urbantvmoviesgmail.com/urbantvmoviesgmail.com/playlist.m3u8
 
 #EXTINF:-1 ,URBAN SERIES
-https://5ad482a77183d.streamlock.net/urbantvseriesgmail.com/urbantvseriesgmail.com/playlist.m3u8?ROGERIOTORRES
+https://5ad482a77183d.streamlock.net/urbantvseriesgmail.com/urbantvseriesgmail.com/playlist.m3u8
 
-#EXTINF:0 tvg-country="PT" tvg-logo="https://www.kindpng.com/picc/m/249-2498159_tlc-logo-png-transparent-png.png" group-title="Televisão Portugal",TLC
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1479
+#EXTINF:-1,Globo TV FHD PT
+http://mytv.fun:8080/8teb38q118/fn7autghye/8794
 
+#EXTINF:-1,Globo TV HD PT
+http://mytv.fun:8080/8teb38q118/fn7autghye/12507
 
-#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Travel_channel.png" group-title="Televisão Portugal",Travel Channel
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1529
-
-#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/TVCine-ACTION.png" group-title="Televisão Portugal",TVCine Action
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1452
-
-#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/TVCine-ACTION.png" group-title="Televisão Portugal",TVCine Action
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/82254
-
+#EXTINF:-1,Record TV PT
+http://mytv.fun:8080/8teb38q118/fn7autghye/8811
+#EXTINF:-1,✽✽⭒ PT Movies & Series ⭒✽✽
+http://mytv.fun:8080/8teb38q118/fn7autghye/682903
+#EXTINF:-1,TvCine Top FHD PT
+http://mytv.fun:8080/8teb38q118/fn7autghye/13105
+#EXTINF:-1,TvCine Top HD PT
+http://mytv.fun:8080/8teb38q118/fn7autghye/13104
+#EXTINF:-1,TvCine Emotion FHD PT
+http://mytv.fun:8080/8teb38q118/fn7autghye/13103
+#EXTINF:-1,TvCine Emotion HD PT
+http://mytv.fun:8080/8teb38q118/fn7autghye/13102
+#EXTINF:-1,TvCine Action FHD PT
+http://mytv.fun:8080/8teb38q118/fn7autghye/13101
+#EXTINF:-1,TvCine Action HD PT
+http://mytv.fun:8080/8teb38q118/fn7autghye/13100
+#EXTINF:-1,TvCine Edition FHD PT
+http://mytv.fun:8080/8teb38q118/fn7autghye/13099
+#EXTINF:-1,TvCine Edition HD PT
+http://mytv.fun:8080/8teb38q118/fn7autghye/13098
+#EXTINF:-1,Cine Mundo PT
+http://mytv.fun:8080/8teb38q118/fn7autghye/7525
+#EXTINF:-1,NOS Studios HD PT
+http://mytv.fun:8080/8teb38q118/fn7autghye/658469
