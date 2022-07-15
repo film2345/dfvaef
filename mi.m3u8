@@ -2,9 +2,6 @@
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/chunklist_w149772694.m3u8
  
 #EXTINF:-1 ,RECORD
-http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
-
-#EXTINF:-1 ,RECORD NEWS
 https://caikron.com.br:19360/floripa/floripa.m3u8
 
 #EXTINF:-1 ,BAND
@@ -24,12 +21,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedi
  
 #EXTINF:-1 ,FUTURA
 https://stmv1.transmissaodigital.com/ronald6259/ronald6259/chunklist_w1479612842.m3u8
-
-#EXTINF:-1 ,NASHVILLE
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgate-nashville-bpo-samsungbr/playlist.m3u8
-
-#EXTINF:-1 ,NOVELÍSSIMA
-https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/2/streamPlaylist.m3u8
  
 #EXTINF:-1 ,RUNTIME
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
@@ -40,9 +31,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
 #EXTINF:-1 ,RUNTIME COMÉDIA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
 
-#EXTINF:-1 ,SPARKTV
-https://candlelightmedia-sparklightlove-3-br.samsung.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 ,TV CULTURA
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1579505314.m3u8
  
@@ -52,24 +40,25 @@ http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:-1 ,TVI FICÇÃO
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTARIOS", Rakuten Documentaries HD (PT)
-https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="DOCUMENTARIOS", Urban TV Docs HD
+#EXTINF:-1 ,URBAN DOCS
 https://5ad482a77183d.streamlock.net/urbantvdocsgmail.com/urbantvdocsgmail.com/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="ESTILO DE VIDA", Hollywire HD
-https://hollywire-samsung-3-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="VARIEDADES", Urban TV HD
-https://5ad482a77183d.streamlock.net/urbantvstreaminggmail.com/urbantvstreaminggmail.com/playlist.m3u8?ROGERIOTORRES
-
-
-#EXTINF:-1 group-title="FILMES E SÉRIES", Urban Movies HD
+#EXTINF:-1 ,URBAN MOVIES
 https://5ad482a77183d.streamlock.net/urbantvmoviesgmail.com/urbantvmoviesgmail.com/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Urban Series HD
+#EXTINF:-1 ,URBAN SERIES
 https://5ad482a77183d.streamlock.net/urbantvseriesgmail.com/urbantvseriesgmail.com/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 tvg-logo="https://imgur.com/c9VSIXV.png" group-title="BRASIL",NOVOCOMEDIA
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2047
+#EXTINF:0 tvg-country="PT" tvg-logo="https://www.kindpng.com/picc/m/249-2498159_tlc-logo-png-transparent-png.png" group-title="Televisão Portugal",TLC
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1479
+
+
+#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Travel_channel.png" group-title="Televisão Portugal",Travel Channel
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1529
+
+#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/TVCine-ACTION.png" group-title="Televisão Portugal",TVCine Action
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1452
+
+#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/TVCine-ACTION.png" group-title="Televisão Portugal",TVCine Action
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/82254
+
